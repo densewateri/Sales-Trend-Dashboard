@@ -14,3 +14,6 @@ This project was focused on mastering the **User Interface (UI)** and **Technica
 * **Dark Theme Experimentation:** Developed the report using a "Dark Mode" aesthetic to test visual contrast and readability.
 * **Gradient Backgrounds:** Applied custom gradient backgrounds to enhance the professional "Executive Dashboard" feel.
 * **Design Layout:** Focused on clean alignment and modern design principles to create an intuitive user experience.
+
+### Dataset Reference
+Kaggle: https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset
